@@ -2,7 +2,7 @@
 
 Physics-informed convolutional-recurrent neural networks for solving spatiotemporal PDEs 
 
-Paper link: [[ArXiv](https://arxiv.org/pdf/2106.14103.pdf)]
+Paper link: [[Journal Paper](https://www.sciencedirect.com/science/article/pii/S0045782521006514)], [[ArXiv](https://arxiv.org/pdf/2106.14103.pdf)]
 
 By: [Pu Ren](https://scholar.google.com/citations?user=7FxlSHEAAAAJ&hl=en), [Chengping Rao](https://github.com/Raocp), [Yang Liu](https://coe.northeastern.edu/people/liu-yang/), [Jian-Xun Wang](http://sites.nd.edu/jianxun-wang/) and [Hao Sun](https://web.mit.edu/haosun/www/#/home)
 
@@ -60,10 +60,13 @@ It is important to pretrain the network from a small number of time steps (e.g.,
 If you find our research helpful, please consider citing us with：
 
 ```
-@article{ren2021phycrnet,
-  title={PhyCRNet: Physics-informed Convolutional-Recurrent Network for Solving Spatiotemporal PDEs},
-  author={Ren, Pu and Rao, Chengping and Liu, Yang and Wang, Jianxun and Sun, Hao},
-  journal={arXiv preprint arXiv:2106.14103},
-  year={2021}
+@article{ren2022phycrnet,
+  title={PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs},
+  author={Ren, Pu and Rao, Chengping and Liu, Yang and Wang, Jian-Xun and Sun, Hao},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={389},
+  pages={114399},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
